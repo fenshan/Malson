@@ -1,30 +1,12 @@
-# edgyAF
+# MALSON
 GGJ 2019
 
-Casa procedural estÈtica l˙gubre.
-Medidor de tiempo (invisible, se nota por el entorno, etc) + si te quedas quieto aparece alguien.
-Cambio de controles
-Diferentes personajes (por sonidos) -> øFiltro glitch para cada familiar?
-Filtro imagen
-Personaje+pequeÒo (le cuesta mÁas avanzar)
-La c·mara hace follow al player.
+In Malson, you play as a young person who feels alienated in their own home. Walk through the procedurally generated house to get through each day.Each day lasts as long as the main music track. Use WASD to move and E to interact with doors and the different objectives. Headphones are strongly recommended.
 
-
-Si un familiar entra en la habitaciÛn, tiene x tiempo para irse y si no, la pantalla (breakdown) y fadeout y aparece otra vez en su habita.
-
-Algunas habitaciones oscuras y tienes que encender la luz.
-
-si "ganas" aparece una frase.
-
-Objetivo de cada run-> ir al baÒo / comida / ropa / pillas algo que necesitas
-
-
---Habitaciones--
-Dormitorio
-Cocina+comedor
-SalÛn
-BaÒo
-Pasillo
-Estudio
-Habitaciones hermanos
+Winston Turtles:
+Andr√©s Olmedo (Music, Design)
+Carlos Planells (Design, Coaching)
+Carlos Men√©ndez (Programming, Design)
+Fenshan (Programming, Design)
+Aar√≥n Rodr√≠guez (Art, Design)
 
