@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0f4a4ec0598c1f241bfb87f773a9df85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Daddy: {instanceID: 0}
+  - Mom: {instanceID: 0}
+  - Mom_: {instanceID: 0}
+  - Bro: {instanceID: 0}
+  - Child_1: {fileID: 8300000, guid: 32d6f5e3765bd2f499a73617cc4f3e5d, type: 3}
+  - Mom_1: {fileID: 8300000, guid: 4ddf9cd816a4725408d911f8884d82a1, type: 3}
+  - Father_1: {fileID: 8300000, guid: eb6d5b5ceea85af48a71e47d48b481d4, type: 3}
+  - audio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
