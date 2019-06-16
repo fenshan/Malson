@@ -10,3 +10,4 @@ Carlos Menéndez (Programming, Design)
 Fenshan (Programming, Design)
 Aarón Rodríguez (Art, Design)
 
+If you want to see the Global Game Jam site and download the exe: https://globalgamejam.org/2019/games/malson
