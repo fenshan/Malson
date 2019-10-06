@@ -7,7 +7,7 @@ Winston Turtles:<br/>
 Andrés Olmedo (Music, Design)<br/>
 Carlos Planells (Design, Coaching)<br/>
 Carlos Menéndez (Programming, Design)<br/>
-Fenshan (Programming, Design)<br/>
+Fen Nicolás (Programming, Design)<br/>
 Aarón Rodríguez (Art, Design)<br/>
 
 If you want to see the Global Game Jam site and download the exe: https://globalgamejam.org/2019/games/malson
