@@ -22,11 +22,11 @@
 
 <h3 align="center">Credits:</h3>
 <p align="center">
-  Andrés Olmedo (Music, Design)<br/>
-  Carlos Planells (Design, Coaching)<br/>
-  Carlos Menéndez (Programming, Design)<br/>
-  Fen Nicolás (Programming, Design)<br/>
-  Aarón Rodríguez (Art, Design)<br/>
+  Carlos Menéndez (Design, Programming)<br/>
+  Fen Nicolás (Design, Programming)<br/>
+  Andrés Olmedo (Design, Music)<br/>
+  Carlus Planells (Design, Production)<br/>
+  Aarón Rodríguez (Design, Art)<br/>
   <br/><br/>
   <a href="https://globalgamejam.org/2019/games/malson"><img src="Capturas/Capture2.PNG" alt="Malson gameplay screenshot" width="45%"></a>
   &emsp;&emsp;
